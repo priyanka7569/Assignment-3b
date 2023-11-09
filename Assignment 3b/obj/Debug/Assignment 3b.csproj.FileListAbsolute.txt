@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 3b\Assignment 3b\bin\Debug\Assignment 3b.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 3b\Assignment 3b\bin\Debug\Assignment 3b.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 3b\Assignment 3b\bin\Debug\Assignment 3b.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 3b\Assignment 3b\obj\Debug\Assignment 3b.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 3b\Assignment 3b\obj\Debug\Assignment 3b.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 3b\Assignment 3b\obj\Debug\Assignment 3b.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 3b\Assignment 3b\obj\Debug\Assignment 3b.pdb
